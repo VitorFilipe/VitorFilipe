@@ -6,7 +6,7 @@
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorFilipe&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFilipe&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFilipe&langs_count=8)
 
 ### Tecnologias que eu uso no meu dia e estou aprendendo
 
